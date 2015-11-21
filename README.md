@@ -40,6 +40,8 @@ DISABLED = False
 ADD_INSTALLED_APPS = [ 'openstack_dashboard.dashboards.integra', ]
 ```
 
+# Storage: Cinder
+
 # Pandas Chart at Admin admin/overview
 See: 
 * [openstack_dashboard/dashboards/admin/overview/views.py](openstack_dashboard/dashboards/admin/overview/views.py)
