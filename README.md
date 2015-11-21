@@ -12,3 +12,7 @@ sudo losetup /dev/loop1 /opt/stack/data/stack-volumes-lvmdriver-1-backing-file
 # rejoin
 ./rejoin-stack.sh
 ```
+# Pandas Chart at Admin admin/overview
+See: 
+* [openstack_dashboard/dashboards/admin/overview/views.py](openstack_dashboard/dashboards/admin/overview/views.py)
+* [openstack_dashboard/dashboards/admin/overview/templates/overview/usage.html](openstack_dashboard/dashboards/admin/overview/templates/overview/usage.html)
